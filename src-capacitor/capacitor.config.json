@@ -1,0 +1,7 @@
+{
+  "appId": "com.gsmll.byblios",
+  "appName": "Byblios",
+  "bundledWebRuntime": false,
+  "npmClient": "yarn",
+  "webDir": "www"
+}
